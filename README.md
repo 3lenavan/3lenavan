@@ -43,11 +43,13 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 <h3>Current Projects</h3>
 
 **Campus Event Notifier** 
+[Repository Link](https://github.com/3lenavan/Campus-event-notifier-app.git)
 - Designed and developed the **Discover** and **Profile Settings** pages to improve user experience and navigation.  
 - Connected JSON test datasets to **Supabase**, validating database connections and ensuring consistent data synchronization.  
 - Conducted debugging and testing to ensure accurate **event retrieval** and front-end data display.  
 
 **Yes Chef App** 
+[Repository Link](https://github.com/Austin-bryan/YesChef.git)
 - Designed and executed **test cases** to verify application functionality, data accuracy, and user workflows.  
 - Implemented features such as **recipe searching**, adding recipes, and ensuring a user-friendly interface.  
 - Performed **functional and requirements-based testing** to ensure features met project specifications.  
