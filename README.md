@@ -7,6 +7,8 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 
 <h2 align="left">About me</h2>
 
+<hr style="height:1px;border:none;background-color:#e5e7eb;" />
+
 <p align="left">
 📚 Currently studying Computer Science with a focus on software development<br>
 💻 Interested in building mobile applications<br>
@@ -35,7 +37,6 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" />
 </div>
 
-<hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
 <h3 align="left">Frameworks & Tools</h3>
 
