@@ -1,10 +1,10 @@
 <h1 align="left">Hello 👋</h1>
 
 
-My name is Elena Van, and I’m a junior Computer Science student at Southern New Hampshire University.
+My name is Elena Van, and I’m a Junior Computer Science student at Southern New Hampshire University.
 </p>
 
-<h2 align="left">About me</h2>
+# **About me**
 
 <p align="left">
 📚 Currently studying Computer Science with a focus on software development<br>
