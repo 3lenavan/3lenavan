@@ -1,12 +1,12 @@
 <h1 align="left">Hello 👋</h1>
 
-<hr />
+<hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
 <p align="left">
 My name is Elena Van, and I’m a junior Computer Science student at Southern New Hampshire University.
 </p>
 
-<hr />
+<hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
 <h2 align="left">About me</h2>
 
@@ -16,7 +16,7 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 🧪 Learning more about testing, debugging, and writing clean, maintainable code
 </p>
 
-<hr />
+<hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
 <h3 align="left">Languages</h3>
 
@@ -40,7 +40,7 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" />
 </div>
 
-<hr />
+<hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
 <h3 align="left">Frameworks & Tools</h3>
 
