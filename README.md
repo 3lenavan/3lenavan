@@ -6,8 +6,6 @@
 My name is Elena Van, and I’m a junior Computer Science student at Southern New Hampshire University.
 </p>
 
-<hr style="height:1px;border:none;background-color:#e5e7eb;" />
-
 <h2 align="left">About me</h2>
 
 <p align="left">
