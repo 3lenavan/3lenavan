@@ -2,7 +2,6 @@
 
 <hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
-<p align="left">
 My name is Elena Van, and I’m a junior Computer Science student at Southern New Hampshire University.
 </p>
 
@@ -13,8 +12,6 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 💻 Interested in building mobile applications<br>
 🧪 Learning more about testing, debugging, and writing clean, maintainable code
 </p>
-
-<hr style="height:1px;border:none;background-color:#e5e7eb;" />
 
 <h3 align="left">Languages</h3>
 
