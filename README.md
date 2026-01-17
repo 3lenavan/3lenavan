@@ -14,7 +14,7 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 
 <p align="left">
 📚 Currently studying Computer Science with a focus on software development<br>
-💻 Interested in building mobile applications
+💻 Interested in building mobile applications<br>
 🧪 Learning more about testing, debugging, and writing clean, maintainable code
 </p>
 
