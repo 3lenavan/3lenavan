@@ -13,8 +13,6 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 </p>
 
 <h3>Languages</h3>
-
-<p align="left">
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
@@ -29,7 +27,6 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 
 <h3>Frameworks & Tools</h3>
 
-<p align="left">
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
@@ -45,8 +42,8 @@ My name is Elena Van, and I’m a junior Computer Science student at Southern Ne
 </div>
 
 <h3>Current Projects</h3>
-
 <p align="left">
+
 **Campus Event Notifier** - [Repository Link](https://github.com/3lenavan/Campus-event-notifier-app.git)
 - Designed and developed the **Discover** and **Profile Settings** pages to improve user experience and navigation.  
 - Connected JSON test datasets to **Supabase**, validating database connections and ensuring consistent data synchronization.  
